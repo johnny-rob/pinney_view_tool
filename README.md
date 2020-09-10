@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Provides generated HTML data for rails application
+```ruby
+DevcampViewTool::Renderer.copyright 'Jonathan Pinney', 'All rights reserved.'
+```
 
 ## Development
 
